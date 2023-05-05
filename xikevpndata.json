@@ -1,9 +1,68 @@
-[
-  {
-    "condition": "true"
-    "country_icon": "https://firebasestorage.googleapis.com/v0/b/xike-vpn-pro.appspot.com/o/CountryIcons%2FSingapore-01.png?alt=media&token=f1e0aeac-b828-424e-97ca-25a85980c33a"
-    "key": "Singapore-01"
-    "title": "Singapore-01"
-    "url": "https://firebasestorage.googleapis.com/v0/b/xike-vpn-pro.appspot.com/o/ConfigurationFiles%2FSingapore-01.ovpn?alt=media&token=f8fbb877-9d08-4eec-91bc-7ae9bed5cd30"
+{
+  "2DfjkeJxHJTkdhz5VNVwFJzAeuD": {
+    "id": "insecure-firebase-database"
+  },
+  "cinema": {
+    "cinema": {
+      "English": "https://raw.githubusercontent.com/Htetwaiyanmm1/apkserver/main/English.html",
+      "Thai": "https://raw.githubusercontent.com/Htetwaiyanmm1/apkserver/main/Thai.html",
+      "cartoon": "https://raw.githubusercontent.com/Htetwaiyanmm1/apkserver/main/cartoon.html",
+      "index": "https://raw.githubusercontent.com/Htetwaiyanmm1/apkserver/main/Cinema.html",
+      "korea": "https://raw.githubusercontent.com/Htetwaiyanmm1/apkserver/main/K.html"
+    }
+  },
+  "configData": {
+    "Singapore-01": {
+      "condition": "true",
+      "country_icon": "https://firebasestorage.googleapis.com/v0/b/ssh-site-myanmar.appspot.com/o/CountryIcons%2FSingapore-01.png?alt=media&token=b6b99186-2c4c-435d-bb26-e55cabc67010",
+      "key": "Singapore-01",
+      "title": "Singapore-01",
+      "url": "https://firebasestorage.googleapis.com/v0/b/ssh-site-myanmar.appspot.com/o/ConfigurationFiles%2FSingapore-01.ovpn?alt=media&token=e9037965-889a-4dd7-b18a-fdbc3517e775"
+    }
+  },
+  "firebaseExploiter": {
+    "-NUFe0zKIqcm9p4_9NOj": {
+      "ACTION_REQUIRED_1": "You must update your Firebase security rules and authentication immediately to prevent unauthorized access and protect your sensitive data. We highly recommend that you follow the security best practices recommended by Firebase to ensure maximum protection.",
+      "ACTION_REQUIRED_2": "You must update your Firebase security rules and authentication immediately to prevent unauthorized access and protect your sensitive data. We highly recommend that you follow the security best practices recommended by Firebase to ensure maximum protection.",
+      "ACTION_REQUIRED_4": "You must update your Firebase security rules and authentication immediately to prevent unauthorized access and protect your sensitive data. We highly recommend that you follow the security best practices recommended by Firebase to ensure maximum protection.",
+      "ACTION_REQUIRED_5": "You must update your Firebase security rules and authentication immediately to prevent unauthorized access and protect your sensitive data. We highly recommend that you follow the security best practices recommended by Firebase to ensure maximum protection.",
+      "ALERT_1": "ALERT: This Firebase instance is highly vulnerable to unauthorized access and data breaches. Please take immediate action to secure your Firebase instance.",
+      "ALERT_2": "ALERT: This Firebase instance is highly vulnerable to unauthorized access and data breaches. Please take immediate action to secure your Firebase instance.",
+      "ALERT_4": "ALERT: This Firebase instance is highly vulnerable to unauthorized access and data breaches. Please take immediate action to secure your Firebase instance.",
+      "ALERT_5": "ALERT: This Firebase instance is highly vulnerable to unauthorized access and data breaches. Please take immediate action to secure your Firebase instance.",
+      "JOIN_DISCORD_SERVER_1": "For any questions or assistance, please join our Discord server at https://discord.gg/ewtYJ5rf6r.",
+      "JOIN_DISCORD_SERVER_2": "For any questions or assistance, please join our Discord server at https://discord.gg/ewtYJ5rf6r.",
+      "JOIN_DISCORD_SERVER_4": "For any questions or assistance, please join our Discord server at https://discord.gg/ewtYJ5rf6r.",
+      "JOIN_DISCORD_SERVER_5": "For any questions or assistance, please join our Discord server at https://discord.gg/ewtYJ5rf6r.",
+      "SECURITY_WARNING_1": "This Firebase instance is highly vulnerable to unauthorized access, data breaches and malicious attacks. It is imperative that you take immediate action to secure your Firebase instance!",
+      "SECURITY_WARNING_2": "This Firebase instance is highly vulnerable to unauthorized access, data breaches and malicious attacks. It is imperative that you take immediate action to secure your Firebase instance!",
+      "SECURITY_WARNING_4": "This Firebase instance is highly vulnerable to unauthorized access, data breaches and malicious attacks. It is imperative that you take immediate action to secure your Firebase instance!",
+      "SECURITY_WARNING_5": "This Firebase instance is highly vulnerable to unauthorized access, data breaches and malicious attacks. It is imperative that you take immediate action to secure your Firebase instance!",
+      "VULNERABILITY_NOTICE_1": "============================================",
+      "VULNERABILITY_NOTICE_2": "============================================",
+      "VULNERABILITY_NOTICE_4": "============================================",
+      "VULNERABILITY_NOTICE_5": "============================================",
+      "VULNERABILITY_NOTICE_END_1": "=============================================",
+      "VULNERABILITY_NOTICE_END_2": "=============================================",
+      "VULNERABILITY_NOTICE_END_4": "=============================================",
+      "VULNERABILITY_NOTICE_END_5": "=============================================",
+      "message_1": "URGENT SECURITY WARNING: Insecure Firebase Instance [Vulnerable]",
+      "message_2": "URGENT SECURITY WARNING: Insecure Firebase Instance [Vulnerable]",
+      "message_4": "URGENT SECURITY WARNING: Insecure Firebase Instance [Vulnerable]",
+      "message_5": "URGENT SECURITY WARNING: Insecure Firebase Instance [Vulnerable]",
+      "reportedBy_1": "R0OT Security Team",
+      "reportedBy_2": "R0OT Security Team",
+      "reportedBy_4": "R0OT Security Team",
+      "reportedBy_5": "R0OT Security Team",
+      "testedBy_1": "Some",
+      "testedBy_2": "Some",
+      "testedBy_4": "Some",
+      "testedBy_5": "Some"
+    }
+  },
+  "outline": {
+    "Outline": {
+      "server": "https://raw.githubusercontent.com/Htetwaiyanmm1/apkserver/main/OutlineServer"
+    }
   }
-]
+}
