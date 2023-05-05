@@ -1,9 +1,9 @@
 [
   {
-    "condition": "true",
-    "country_icon": "https://firebasestorage.googleapis.com/v0/b/xike-vpn-pro.appspot.com/o/CountryIcons%2FSingapore-01.png?alt=media&token=f1e0aeac-b828-424e-97ca-25a85980c33a",
-    "key": "Singapore-01",
-    "title": "Singapore-01",
-    "url": "https://firebasestorage.googleapis.com/v0/b/xike-vpn-pro.appspot.com/o/ConfigurationFiles%2FSingapore-01.ovpn?alt=media&token=f8fbb877-9d08-4eec-91bc-7ae9bed5cd30",
+    "condition": "true"
+    "country_icon": "https://firebasestorage.googleapis.com/v0/b/xike-vpn-pro.appspot.com/o/CountryIcons%2FSingapore-01.png?alt=media&token=f1e0aeac-b828-424e-97ca-25a85980c33a"
+    "key": "Singapore-01"
+    "title": "Singapore-01"
+    "url": "https://firebasestorage.googleapis.com/v0/b/xike-vpn-pro.appspot.com/o/ConfigurationFiles%2FSingapore-01.ovpn?alt=media&token=f8fbb877-9d08-4eec-91bc-7ae9bed5cd30"
   }
 ]
